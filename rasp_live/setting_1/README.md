@@ -102,4 +102,10 @@
     cv2.destroyAllWindows()
     ```
     
+- **test.py 파일 실행**
+
+    ```
+    python3 test.py
+    ```
+
     ![corgi-g1abb5de4c_1280](https://github.com/junyong1111/Raspberry_monitoring/assets/79856225/41bf134d-7604-461b-b422-5a6f4920ae7a)
