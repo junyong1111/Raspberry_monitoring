@@ -31,4 +31,4 @@ def Stream():
 
 if __name__ == "__main__":
     # 라즈베리파이의 IP 번호와 포트 번호를 지정하여 Flask 앱을 실행합니다.
-    app.run(host="172.30.1.99", port="8080")
+    app.run(host="자신의IP주소", port="8080")
